@@ -20,7 +20,7 @@ Microsoft.Microsoft3DViewer                    # Viewer for 3D models
 Microsoft.MicrosoftJournal                     # Digital note-taking app optimized for pen input
 Microsoft.MicrosoftOfficeHub                   # Hub to access Microsoft Office apps and documents (Precursor to Microsoft 365 app)
 Microsoft.MicrosoftPowerBIForWindows           # Business analytics service client
-Microsoft.MicrosoftSolitaireCollection         # Collection of solitaire card games
+#Microsoft.MicrosoftSolitaireCollection         # Collection of solitaire card games
 Microsoft.MicrosoftStickyNotes                 # Digital sticky notes app (Deprecated & replaced by OneNote)
 Microsoft.MixedReality.Portal                  # Portal for Windows Mixed Reality headsets
 Microsoft.NetworkSpeedTest                     # Internet connection speed test utility
@@ -100,24 +100,24 @@ XING                                           # Professional networking platfor
 #  The apps below this line will NOT be uninstalled by default. Remove the # character in front of any app you  #
 #   want to UNINSTALL by default.                                                                               #
 # ------------------------------------------------------------------------------------------------------------- #
-#Microsoft.BingSearch                          # Web Search from Microsoft Bing (Integrates into Windows Search)
-#Microsoft.Copilot                             # New Microsoft Copilot app (AI assistant)
+Microsoft.BingSearch                          # Web Search from Microsoft Bing (Integrates into Windows Search)
+Microsoft.Copilot                             # New Microsoft Copilot app (AI assistant)
 #Microsoft.Edge                                # Edge browser (Can only be uninstalled in European Economic Area)
 #Microsoft.GamingApp                           # Modern Xbox Gaming App, required for installing some PC games
 #Microsoft.GetHelp                             # Required for some Windows 11 Troubleshooters and support interactions
 #Microsoft.MSPaint                             # Paint 3D (Modern paint application with 3D features)
-#Microsoft.OneDrive                            # OneDrive consumer cloud storage client
-#Microsoft.OutlookForWindows                   # New mail app: Outlook for Windows
+Microsoft.OneDrive                            # OneDrive consumer cloud storage client
+Microsoft.OutlookForWindows                   # New mail app: Outlook for Windows
 #Microsoft.Paint                               # Classic Paint (Traditional 2D paint application)
-#Microsoft.People                              # Required for & included with Mail & Calendar (Contacts management)
+Microsoft.People                              # Required for & included with Mail & Calendar (Contacts management)
 #Microsoft.RemoteDesktop                       # Remote Desktop client app
 #Microsoft.ScreenSketch                        # Snipping Tool (Screenshot and annotation tool)
-#Microsoft.StartExperiencesApp                 # This app powers Windows Widgets My Feed
+Microsoft.StartExperiencesApp                 # This app powers Windows Widgets My Feed
 #Microsoft.Whiteboard                          # Digital collaborative whiteboard app
 #Microsoft.Windows.Photos                      # Default photo viewing and basic editing app
 #Microsoft.WindowsCalculator                   # Calculator app
 #Microsoft.WindowsCamera                       # Camera app for using built-in or connected cameras
-#Microsoft.windowscommunicationsapps           # Mail & Calendar app suite
+Microsoft.windowscommunicationsapps           # Mail & Calendar app suite
 #Microsoft.WindowsNotepad                      # Notepad text editor app
 #Microsoft.WindowsStore                        # Microsoft Store, WARNING: This app cannot be reinstalled easily if removed!
 #Microsoft.WindowsTerminal                     # New default terminal app in windows 11 (Command Prompt, PowerShell, WSL)
